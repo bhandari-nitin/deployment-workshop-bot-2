@@ -36,9 +36,9 @@
 - I am feeling very good
 - I am great
 - I'm good
-- awesome
 
 ## intent:mood_unhappy
+- awesome
 - sad
 - very sad
 - unhappy
@@ -49,6 +49,7 @@
 - not very good
 - extremely sad
 - so sad
+- I need a coffee.
 
 ## intent:bot_challenge
 - are you a bot?
